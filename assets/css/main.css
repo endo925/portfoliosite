@@ -324,8 +324,10 @@ h6 {
 .container-fluid{
   justify-content:space-between;
 }
+@media (min-width: 1280px) {
 .navbar{
   margin-right:42%;
+}
 }
 
 .header .logo {
